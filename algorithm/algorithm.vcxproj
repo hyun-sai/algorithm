@@ -127,19 +127,51 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="2022 KAKAO BLIND RECRUITMENT\k진수에서 소수 개수 구하기.cpp" />
-    <ClCompile Include="2022 KAKAO BLIND RECRUITMENT\신고 결과 받기.cpp" />
-    <ClCompile Include="프로그래머스\2022 KAKAO BLIND RECRUITMENT\k진수에서 소수 개수 구하기.cpp" />
-    <ClCompile Include="프로그래머스\2022 KAKAO BLIND RECRUITMENT\신고 결과 받기.cpp" />
-    <ClCompile Include="프로그래머스\힙\이중우선순위큐.cpp" />
-    <ClCompile Include="프로그래머스\완전탐색\소수 찾기.cpp" />
-    <ClCompile Include="프로그래머스\스택큐\기능개발.cpp" />
-    <ClCompile Include="프로그래머스\스택큐\같은 숫자는 싫어.cpp" />
-    <ClCompile Include="프로그래머스\완전탐색\최소직사각형.cpp" />
-    <ClCompile Include="프로그래머스\완전탐색\모의고사.cpp" />
-    <ClCompile Include="프로그래머스\힙\더 맵게.cpp" />
-    <ClCompile Include="프로그래머스\스택큐\프로세스.cpp" />
-    <ClCompile Include="프로그래머스\스택큐\올바른 괄호.cpp" />
+    <ClCompile Include="2022 KAKAO BLIND RECRUITMENT\k진수에서 소수 개수 구하기.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="2022 KAKAO BLIND RECRUITMENT\신고 결과 받기.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="프로그래머스\2025 프로그래머스\유연근무제.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="프로그래머스\2025 프로그래머스\택배 상자 꺼내기.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="프로그래머스\2022 KAKAO BLIND RECRUITMENT\k진수에서 소수 개수 구하기.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="프로그래머스\2022 KAKAO BLIND RECRUITMENT\신고 결과 받기.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="프로그래머스\힙\이중우선순위큐.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="프로그래머스\완전탐색\소수 찾기.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="프로그래머스\스택큐\기능개발.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="프로그래머스\스택큐\같은 숫자는 싫어.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="프로그래머스\완전탐색\최소직사각형.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="프로그래머스\완전탐색\모의고사.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="프로그래머스\힙\더 맵게.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="프로그래머스\스택큐\프로세스.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="프로그래머스\스택큐\올바른 괄호.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

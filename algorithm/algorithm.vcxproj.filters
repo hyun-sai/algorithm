@@ -48,10 +48,16 @@
     <ClCompile Include="프로그래머스\스택큐\같은 숫자는 싫어.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="프로그래머스\2022 KAKAO BLIND RECRUITMENT\신고 결과 받기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스\2025 프로그래머스\택배 상자 꺼내기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="프로그래머스\2022 KAKAO BLIND RECRUITMENT\k진수에서 소수 개수 구하기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="프로그래머스\2022 KAKAO BLIND RECRUITMENT\신고 결과 받기.cpp">
+    <ClCompile Include="프로그래머스\2025 프로그래머스\유연근무제.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
