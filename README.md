@@ -22,8 +22,8 @@
 | 26.01.23 | **힙(Heap)** | 더 맵게 | ![Lv2](https://img.shields.io/badge/Level-2-green) | [최소 힙 자료구조 활용](노션_해당_문제_링크) | [View](./algorithm/프로그래머스/힙/더%20맵게.cpp) |
 | 26.01.23 | **힙(Heap)** | 이중우선순위큐 | ![Lv3](https://img.shields.io/badge/Level-3-orange) | [multiset 데이터 관리](노션_해당_문제_링크) | [View](./algorithm/프로그래머스/힙/이중우선순위큐.cpp) |
 | 26.01.23 | **힙(Heap)** | 주식가격 | ![Lv2](https://img.shields.io/badge/Level-2-green) | [가격 유지 시간 계산](노션_해당_문제_링크) | [View](./algorithm/프로그래머스/힙/주식가격.cpp) |
-| 26.01.24 | **2025 프로그래머스** | 유연근무제 | ![Lv1](https://img.shields.io/badge/Level-1-blue) | [클릭](https://www.notion.so/2f1cee4132dc800887bbdf275d385066?source=copy_link) | [View](./algorithm/프로그래머스/2025%%200프로그래머스/유연근무제.cpp) |
-| 26.01.24 | **2025 프로그래머스** | 택배 상자 꺼내기 | ![Lv1](https://img.shields.io/badge/Level-1-blue) | [클릭](https://www.notion.so/2f1cee4132dc8055814be48179d5cd8d?source=copy_link) | [View](./algorithm/프로그래머스/2025 프로그래머스/택배 상자 꺼내기.cpp) |
+| 26.01.24 | **2025 프로그래머스** | 유연근무제 | ![Lv1](https://img.shields.io/badge/Level-1-blue) | [ ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ](https://www.notion.so/2f1cee4132dc800887bbdf275d385066?source=copy_link) | [View](./algorithm/프로그래머스/2025%%200프로그래머스/유연근무제.cpp) |
+| 26.01.24 | **2025 프로그래머스** | 택배 상자 꺼내기 | ![Lv1](https://img.shields.io/badge/Level-1-blue) | [ ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ](https://www.notion.so/2f1cee4132dc8055814be48179d5cd8d?source=copy_link) | [View](./algorithm/프로그래머스/2025 프로그래머스/택배 상자 꺼내기.cpp) |
 
 ---
 
