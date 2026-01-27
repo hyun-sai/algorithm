@@ -60,5 +60,11 @@
     <ClCompile Include="프로그래머스\2025 프로그래머스\유연근무제.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="프로그래머스\스택큐\다리를 지나는 트럭.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스\스택큐\주식가격.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

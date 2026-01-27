@@ -4,49 +4,44 @@
 
 using namespace std;
 
-
 int solution(vector<int> priorities, int location) {
     int answer = 0;
-    struct number
+    struct process
     {
-        int high;
+        int number;
         int index;
     };
-    vector <number> numbers(priorities.size());
+    deque <process> prior;
     for (int i = 0; i < priorities.size(); i++)
     {
-        numbers[i].high = priorities[i];
-        numbers[i].index = i;
+        prior.push_back({ priorities[i],i });
     }
-    deque <number> q;
-    for (int i = 0; i < priorities.size(); i++)
+    while (!prior.empty())
     {
-        q.push_back({ numbers[i].high ,numbers[i].index});
-    }
-    while (true)
-    {
-        number compare = q.front();
+        int max = prior.front().number;
         bool excute = true;
-        for (int j = 1; j < q.size();j++)
+        for (int i = 0; i < prior.size(); i++)
         {
-            if (q.front().high < q[j].high)
+            if (prior[i].number > max)
             {
                 excute = false;
-                q.push_back(q.front());
-                q.pop_front();
                 break;
             }
         }
         if (excute == true)
         {
             answer++;
-            if (q.front().index == location)
+            if (location == prior.front().index)
             {
-                break;
+                return answer;
             }
-            q.pop_front();
+            prior.pop_front();
+
         }
-            
+        else
+        {
+            prior.push_back(prior.front());
+            prior.pop_front();
+        }
     }
-    return answer;
 }
