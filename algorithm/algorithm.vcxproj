@@ -151,19 +151,19 @@
     <ClCompile Include="프로그래머스\스택큐\주식가격.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="프로그래머스\해쉬\베스트앨범.cpp">
+    <ClCompile Include="프로그래머스\해시\베스트앨범.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="프로그래머스\해쉬\완주하지 못한 선수.cpp">
+    <ClCompile Include="프로그래머스\해시\완주하지 못한 선수.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="프로그래머스\해쉬\의상.cpp">
+    <ClCompile Include="프로그래머스\해시\의상.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="프로그래머스\해쉬\전화번호 목록.cpp">
+    <ClCompile Include="프로그래머스\해시\전화번호 목록.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="프로그래머스\해쉬\폰켓몬.cpp">
+    <ClCompile Include="프로그래머스\해시\폰켓몬.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="프로그래머스\힙\이중우선순위큐.cpp">
