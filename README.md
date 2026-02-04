@@ -6,8 +6,6 @@
 
 ---
 
-## 📅 풀이 현황판 (Total: 11 Problems)
-
 | 날짜 | 분류 | 문제 이름 | 난이도 | 풀이 노트 (Notion) | 코드 |
 | :---: | :--- | :--- | :---: | :---: | :---: |
 | 26.01.26 | **스택/큐** | 같은 숫자는 싫어 | ![Lv1](https://img.shields.io/badge/Level-1-blue) | [📝 Note](https://www.notion.so/2f3cee4132dc80a88af7d21a9b06a014) | [View](./algorithm/프로그래머스/스택큐/같은%20숫자는%20싫어.cpp) |
